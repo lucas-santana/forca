@@ -3,7 +3,7 @@ fun main(args: Array<String>) {
 	
 	val input = Scanner(System.`in`)
 	
-	print("Digite o número de tentativas: ")	
+	print("Digite o número tentativas: ")	
 	var numeroTentativas = input.nextInt()
 	
 	print("Digite a palavra secreta: ")
